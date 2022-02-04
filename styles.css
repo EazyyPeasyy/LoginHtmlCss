@@ -1,0 +1,151 @@
+* {
+    background: #191816;
+    color:#afb6c2;
+  }
+
+ body {
+     margin: 0;
+     height: 100vh;
+ }
+
+  #logo {
+    margin-top: 70px;
+    margin-left: 80px;
+    width: 10%;
+  }
+
+  #paisagem {
+    width: 80vh;
+    float: right;
+  }
+
+  #form {
+    background-color:#24221f;
+    height: 650px;
+    width: 40%;
+    margin-left: 10%;
+    margin-top: 5%;
+  }
+
+  #logimg {
+    background-color:#24221f;
+    width: 35px;
+  }
+
+  p {
+    background-color:#24221f;
+    font-family: "Poppins", sans-serif;
+  }
+
+  #p1 {
+    position: relative;
+    bottom: 73px;
+    margin-left: 50px;  
+    color: #d4ccb6;
+    font-size: 200%;
+  }
+  #p2 {
+    position: relative;
+    bottom: 97px;
+    color:  #afb6c2;
+    font-size: 110%;
+  }
+
+  #cabecaa {
+    position: relative;
+    margin-left: 240px;
+    top: 50px;
+    background-color:#24221f;
+ }
+
+ #corpo {
+     position: relative;
+     margin-left: 240px;
+     background-color:#24221f;
+ }
+
+ .input {
+     margin-top: -10px;
+     margin-bottom: 10px;
+     width: 320px;
+     padding: 12px 20px;
+     background-color:#24221f;
+     border: 1px solid rgb(141, 141, 141);
+     border-radius: 5px;
+     box-sizing: border-box;
+     outline-color: #FFC632;
+     outline-width: 100px;
+ }
+
+ #lembra {
+     position: relative;
+     font-size: 16px;
+     bottom: 44px;
+     margin-left: 30px;
+ }
+
+ .input2 {
+    all: unset;
+    border: 1px solid rgb(141, 141, 141);
+    border-radius: 4px;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    margin-top: 10px;
+ }
+
+ input:checked {
+  background-color: #FFC632;
+  width: 20px;
+  height: 20px; 
+ }
+
+ .checkmark{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 15px;
+    width: 15px;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 2px;
+  }
+
+  #esquece {
+      position: relative;
+      bottom: 85px;
+      margin-left: 160px;
+      color: #FFC632;
+      text-decoration: none;
+      font-size: 16px;
+      font-family:"Poppins", sans-serif;
+  }
+
+  button {
+    position: relative;
+    bottom: 55px;
+    width: 320px;
+    height: 55px;
+    background-color: #FFC632;
+    color: #24221f;
+    font-size: 25px;
+    border-color: #FFC632;
+    border-radius: 6px;
+  }
+
+  #semconta {
+   position: relative;
+   bottom: 55px;
+   left: 25px;
+   color: #FFC632;
+  }
+
+  #registrai {
+    position: relative;
+    bottom: 96px;
+    left: 205px;
+    color: #FFC632;
+    text-decoration: none;
+    font-weight: bolder;
+    font-family: "Poppins", sans-serif;
+  }
